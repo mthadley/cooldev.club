@@ -1,7 +1,7 @@
 {
     "version": "1.0.0",
     "summary": "Where the cooldevs go.",
-    "repository": "https://github.com/mthadley/cooldev.club.git",
+    "repository": "https://github.com/mthadley/cooldev-club.git",
     "license": "BSD3",
     "source-directories": [
         ".",

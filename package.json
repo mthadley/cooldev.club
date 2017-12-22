@@ -1,0 +1,17 @@
+{
+  "name": "cooldev.club",
+  "version": "1.0.0",
+  "description": "For the cool devs.",
+  "main": "index.js",
+  "repository": "git@github.com:mthadley/cooldev.club.git",
+  "author": "Michael Hadley <mikethadley@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "axios": "^0.17.1",
+    "express": "^4.16.2"
+  }
+}
